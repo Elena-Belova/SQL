@@ -1,5 +1,15 @@
 # :date: Реляционные Базы Данных. SQL-запросы.
 
+**Решение задач по SQL**
+
+Примеры моих запросов (простых и средней сложности)
+
+**СУБД**: 
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+
+Для работы с БД использовала инструменты: _phpMyAdmin_,  _pgAdmin_,  _DBeaver_ 
+
 <details>
 <summary><kbd><b>ЗНАНИЕ SQL</b></kbd></summary><br>
 <blockquote>
@@ -15,27 +25,21 @@
   </ul>
 </blockquote>
 </details>
+
 <hr>
-
-:small_blue_diamond:  **Решение задач по SQL**
-
-Примеры моих запросов (простых и средней сложности):
-
 
 **Различные виды запросов, построенных на связанных таблицах**
 
-<hr>
+
 
 :floppy_disk: **БД "Абитуриент"**
 <details>
 <summary>Схема БД</summary>
+  
 ![enr](https://github.com/Elena-Belova/SQL/assets/148638077/71f076db-8786-4f60-ac68-1f81651144ae)
-
-
 </details>
 
 &#8594; [Запросы на выборку/запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/enrollee.sql)
-
 <hr>
 
 :floppy_disk: **БД "Тестирование on-line"**
@@ -46,7 +50,6 @@
 </details>
 
 &#8594; [Запросы на выборку/запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/BD%20Testing.sql)
-
 <hr>
 
 :floppy_disk: **БД "Интернет-магазин книг"**

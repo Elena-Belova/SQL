@@ -21,19 +21,58 @@
 
 Примеры моих запросов (простых и средней сложности):
 
-<hr>
 
- :floppy_disk: 
-
-<hr>
+**Различные виды запросов, построенных на связанных таблицах**
 
 <hr>
 
- :floppy_disk: 
+:floppy_disk: **БД "Абитуриент"**
+<details>
+<summary>Схема БД</summary>
+![enr](https://github.com/Elena-Belova/SQL/assets/148638077/71f076db-8786-4f60-ac68-1f81651144ae)
+
+
+</details>
+
+&#8594; [Запросы на выборку/запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/enrollee.sql)
 
 <hr>
 
-**Различные виды SQL запросов к одной таблице БД**
+:floppy_disk: **БД "Тестирование on-line"**
+<details>
+<summary>Схема БД</summary>
+
+![cxтест](https://github.com/Elena-Belova/SQL/assets/148638077/01073338-0458-49e0-a3e9-4373388a4417)
+</details>
+
+&#8594; [Запросы на выборку/запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/BD%20Testing.sql)
+
+<hr>
+
+:floppy_disk: **БД "Интернет-магазин книг"**
+<details>
+<summary>Схема БД</summary>
+  
+![book](https://github.com/Elena-Belova/SQL/assets/148638077/ef814b4f-4cfe-4bc2-9948-d1dae42b3fff)
+</details>
+
+&#8594; [Запросы на выборку](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/DB%20book%20store1.sql)
+
+&#8594; [Запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/DB%20book%20store2.sql)
+<hr>
+
+:floppy_disk: **БД "Студенты"**
+
+<details>
+<summary>Схема БД</summary>
+  
+  ![model db](https://github.com/Elena-Belova/SQL/assets/148638077/de2a3579-2c1a-4700-8471-69d334f00d35)
+</details>
+
+&#8594; [Запросы к БД](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/students.sql)
+<hr>
+
+**Простые SQL запросы к одной таблице БД**
 
 :small_blue_diamond: Запросы для таблицы "Командировки": выборка данных, групповые операции, вложенные запросы
   
@@ -46,9 +85,3 @@
 &#8594; [Запросы book.sql](https://github.com/Elena-Belova/SQL/blob/ce76e06b5138438dc83f177154a33952713125c1/book.sql)
 
 <hr>
-
-
-
-
-
-

@@ -1,12 +1,11 @@
-# :floppy_disk: Реляционные Базы Данных. SQL-запросы.
+# Реляционные Базы Данных. SQL-запросы.
 
-**Решение задач по SQL**
-
+**Решение задач по SQL**<br>
 Примеры моих запросов (простых и средней сложности)
 
 **СУБД**: 
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />   
 
 Для работы с БД использовала инструменты: _phpMyAdmin_,  _pgAdmin_,  _DBeaver_ 
 
@@ -30,8 +29,6 @@
 
 **Различные виды запросов, построенных на связанных таблицах**
 
-
-
 :floppy_disk: **БД "Абитуриент"**
 <details>
 <summary>Схема БД</summary>
@@ -39,7 +36,7 @@
 ![enr](https://github.com/Elena-Belova/SQL/assets/148638077/71f076db-8786-4f60-ac68-1f81651144ae)
 </details>
 
-&#8594; [Запросы на выборку/запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/enrollee.sql)
+&#8594; [Запросы на выборку/запросы корректировки.sql](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/enrollee.sql)
 <hr>
 
 :floppy_disk: **БД "Тестирование on-line"**
@@ -49,7 +46,7 @@
 ![cxтест](https://github.com/Elena-Belova/SQL/assets/148638077/01073338-0458-49e0-a3e9-4373388a4417)
 </details>
 
-&#8594; [Запросы на выборку/запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/BD%20Testing.sql)
+&#8594; [Запросы на выборку/запросы корректировки.sql](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/BD%20Testing.sql)
 <hr>
 
 :floppy_disk: **БД "Интернет-магазин книг"**
@@ -59,9 +56,9 @@
 ![book](https://github.com/Elena-Belova/SQL/assets/148638077/ef814b4f-4cfe-4bc2-9948-d1dae42b3fff)
 </details>
 
-&#8594; [Запросы на выборку](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/DB%20book%20store1.sql)
+&#8594; [Запросы на выборку.sql](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/DB%20book%20store1.sql)
 
-&#8594; [Запросы корректировки](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/DB%20book%20store2.sql)
+&#8594; [Запросы корректировки.sql](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/DB%20book%20store2.sql)
 <hr>
 
 :floppy_disk: **БД "Студенты"**
@@ -72,7 +69,7 @@
   ![model db](https://github.com/Elena-Belova/SQL/assets/148638077/de2a3579-2c1a-4700-8471-69d334f00d35)
 </details>
 
-&#8594; [Запросы к БД](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/students.sql)
+&#8594; [Запросы на выборку.sql](https://github.com/Elena-Belova/SQL/blob/8ee3ed49d390d307713c33bb6e22d0fa8d85a910/students.sql)
 <hr>
 
 **Простые SQL запросы к одной таблице БД**
